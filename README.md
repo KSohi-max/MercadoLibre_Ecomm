@@ -61,6 +61,6 @@ Peak revenue day is Wednesday for the Ecomm site but Monday also seems to do ver
 ![90 Day Sales Forecast](https://github.com/KSohi-max/MercadoLibre_Ecomm/blob/main/Images/90%20Day%20Sales%20Forecast.png)
 
 Here are the sales forecast for the quarter:
-* Most_Likely    $22,750 millions of USD
+* Most Likely    $22,750 millions of USD
 * Worst Case     $20,829 millions of USD
 * Best Case      $24,671 millions of USD
